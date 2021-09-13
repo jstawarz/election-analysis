@@ -22,7 +22,7 @@ Using the Python code created, we can confirm that:
 
 - by county, the election results are as follows;
 
-![This is an image](https://github.com/jstawarz/jstawarz/election-analysis/blob/main/Resources/County_Votes.png)
+![This is an image](https://github.com/jstawarz/election-analysis/blob/main/Resources/County_Votes.png)
 
 - with 306, 055 votes, Denver county had the largest number of votes.
 
